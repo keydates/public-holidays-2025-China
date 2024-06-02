@@ -1,0 +1,82 @@
+{
+  "product": "China Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "Chinese New Year",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-02-12T12:00:00",
+      "endDate": "2025-02-15T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "red",
+      "description": "Lunar New Year celebration"
+    },
+    {
+      "title": "Tomb Sweeping Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-05T12:00:00",
+      "endDate": "2025-04-05T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "green",
+      "description": "Honoring ancestors"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of workers"
+    },
+    {
+      "title": "Dragon Boat Festival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-14T12:00:00",
+      "endDate": "2025-06-14T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "teal",
+      "description": "Honoring Qu Yuan"
+    },
+    {
+      "title": "Mid-Autumn Festival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-21T12:00:00",
+      "endDate": "2025-09-21T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebrating the harvest"
+    },
+    {
+      "title": "National Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-01T12:00:00",
+      "endDate": "2025-10-07T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the founding of the People's Republic of China"
+    }
+  ]
+}
